@@ -19,4 +19,4 @@ Lesson 7 : How to contribute to Qiskit
 
 Lesson 8 : Noise
 
-Lesson 9 : Programming on Quantum Computers
+Lesson 9 : Qunatum Games
