@@ -17,6 +17,6 @@ Lesson 6 : Bernstein-Vazirani Algorith
 
 Lesson 7 : How to contribute to Qiskit
 
-Lesson 8 : Noise
+Lesson 8 : Noise Mitigation
 
 Lesson 9 : Qunatum Games
