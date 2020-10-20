@@ -1,0 +1,8 @@
+#full tutorial at https://qiskit.org/textbook/ch-algorithms/teleportation.html
+
+#circuit used for teleportation protocol
+
+qr = QuantumRegister(3, name="q")    
+crz = ClassicalRegister(1, name="crz") 
+crx = ClassicalRegister(1, name="crx") 
+teleportation_circuit = QuantumCircuit(qr, crz, crx)
