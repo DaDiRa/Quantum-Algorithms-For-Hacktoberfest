@@ -19,4 +19,4 @@ Lesson 7 : How to contribute to Qiskit
 
 Lesson 8 : Noise Mitigation
 
-Lesson 9 : Qunatum Games
+Lesson 9 : Quantum Games
